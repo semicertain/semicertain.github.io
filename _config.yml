@@ -1,4 +1,4 @@
-title: Semicertain
+title: Semi-certain
 theme: jekyll-theme-hacker
 collections:
   posts:
@@ -6,3 +6,4 @@ collections:
     output: true
 exclude:
 - README.md
+permalink: "/:categories/:title/"
