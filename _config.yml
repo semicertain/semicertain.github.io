@@ -4,3 +4,5 @@ collections:
   posts:
     title: Posts
     output: true
+exclude:
+- README.md
