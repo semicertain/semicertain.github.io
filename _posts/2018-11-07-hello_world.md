@@ -6,6 +6,4 @@ categories:
 layout: post
 ---
 
-# Hello World
-
 Testing, testing, 1 2 3
