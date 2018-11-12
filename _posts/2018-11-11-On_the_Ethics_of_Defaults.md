@@ -7,7 +7,7 @@ layout: post
 use_math: false
 ---
 
-## Introduction
+## Introduction1
 
 Water flows downhill. General Ulysses S. Grant knew this when he attempted to divert the Mississippi River to bypass hostile forces during the American Civil War <a name="ref1"></a>[[1]](#grants-canal). While the project eventually failed due to technical problems, the idea behind Grant's plan was sound. Water always follows the path of least resistance. If a new path of even less resistance is introduced, the water will naturally divert in that direction. This principle largely applies to people as well. Humans tend to use the means that requires the least effort to get to a desired ends. Thus, as new systems and environments are set up, the creators must face a question of ethics about determining what will be the path of least resistance and consequently, the default behavior. 
 {: style="text-align: justify"}
@@ -52,6 +52,8 @@ Perhaps the most familiar, yet often the most neglected, area of defaults are ha
 
 Allowing for a loose metaphor, the human brain is like a large field of tall grass with many solitary trees scattered about in various locations. Having the thought to execute an action is like walking from one tree to another. When walking between two certain trees, it may be very difficult to navigate until you have made the journey several times and have started to mat down the grass. Just as a path through that field becomes more defined the more often it is traversed, a neural path in your brain becomes easier to activate the more often that specific thought pattern is followed <a name="ref3"></a>[[3]](#friedman-et-al). When encountering a familiar situation, your brain is more likely to follow that path of least resistance which has been created through consistent use than to blaze a new trail. This choice of paths usually happens unconsciously, so we often create our own default behaviors without realizing.
 {: style="text-align: justify"}
+
+[//]: # ([footnote] That's not to say all actions are predetermined, but there is an inertia of change that must be overcome to choose other than the default. Everyone experiences times where the drive and will to do so are readily available, but those moments represent the exception to this general trend.)
 
 [//]: # ([For reference] Largely as the result of work by Kandel and his colleagues at Columbia University, it has become possible to study at the cellular level some relatively simple forms of behavioral memory like habituation and sensitization -Kendel, 1976-. *Habituation refers to progressive diminution in the intensity of a response as the result of repeated presentations of a stimulus.* Sensitization refers to the enhancement of the response to a stimulus as the result of strong stimulation with another stimulus. These forms of memory are nonassociative, in that they do not depend on pairing of stimuli or on forming associations between stimuli. Because both phenomena are nevertheless instances of how *behavior can be changed by previous experience*, they provide useful ways to study phylogenetically simple forms of memory Chapter 7. Memory and the Brain, p. 173, Sarah L. Friedman, Kenneth A. Klivington, Rita W. Peterson, "The Brain, Cognition, and Education." Academic Press, Sep 25, 2013)
 
