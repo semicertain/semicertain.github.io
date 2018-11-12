@@ -1,6 +1,6 @@
 title: Semicertain
 theme: jekyll-theme-hacker
-markdown: maruku
+markdown: kramdown
 collections:
   posts:
     title: Posts
