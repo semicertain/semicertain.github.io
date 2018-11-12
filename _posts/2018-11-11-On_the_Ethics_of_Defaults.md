@@ -10,14 +10,14 @@ use_math: false
 ## Introduction
 
 Water flows downhill. General Ulysses S. Grant knew this when he attempted to divert the Mississippi River to bypass hostile forces during the American Civil War <a name="ref1"></a>[[1]](#grants-canal). While the project eventually failed due to technical problems, the idea behind Grant's plan was sound. Water always follows the path of least resistance. If a new path of even less resistance is introduced, the water will naturally divert in that direction. This principle largely applies to people as well. Humans tend to use the means that requires the least effort to get to a desired ends. Thus, as new systems and environments are set up, the creators must face a question of ethics about determining what will be the path of least resistance and consequently, the default behavior. 
-{: .text-justify}
+{: style="text-align: center"}
 
 [//]: # ([footnote] That's not to say all actions are predetermined, but there is an inertia of change that must be overcome to choose other than the default. Everyone experiences times where the drive and will to do so are readily available, but those moments represent the exception to this general trend.)
 
 ## Toggles and Switches
 
 For the purposes of this paper, a default setting is the most likely outcome of a situation as dictated by the context and environment. This applies to many areas of life, but is perhaps the most straightforward in consumer technology. 
-{: .text-justify}
+{: style="text-align: right"}
 
 If you have a smartphone or computer, think back to the last time you opened the settings application to do anything except connect to WiFi or a Bluetooth device. For most people, it has probably been over a year or even not since the device was purchased. Inside the settings application, there exists a myriad of switches and drop down menus which dictate the behavior of the device and, by proxy, the behavior of the user. When the device is purchased, all of those toggles need to be set somehow. A switch is either on or off. Because the majority of people will leave those settings how they were upon purchase, an ethical responsibility is placed on the makers of that device to have the default settings be fair and beneficial to the majority of users.
 {: .text-justify}
