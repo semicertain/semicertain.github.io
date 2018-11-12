@@ -1,5 +1,11 @@
-
-# On the Ethics of Defaults
+---
+title: On the Ethics of Defaults
+date: 2018-11-11 00:00:00 Z
+categories:
+- posts
+layout: post
+use_math: false
+---
 
 ## Introduction
 
