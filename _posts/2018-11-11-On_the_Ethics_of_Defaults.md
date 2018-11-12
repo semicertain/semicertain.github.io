@@ -16,17 +16,20 @@ Water flows downhill. General Ulysses S. Grant knew this when he attempted to di
 
 ## Toggles and Switches
 
-<div markdown=1 style="text-align: justify">
 For the purposes of this paper, a default setting is the most likely outcome of a situation as dictated by the context and environment. This applies to many areas of life, but is perhaps the most straightforward in consumer technology. 
+{: .text-justify}
 
 If you have a smartphone or computer, think back to the last time you opened the settings application to do anything except connect to WiFi or a Bluetooth device. For most people, it has probably been over a year or even not since the device was purchased. Inside the settings application, there exists a myriad of switches and drop down menus which dictate the behavior of the device and, by proxy, the behavior of the user. When the device is purchased, all of those toggles need to be set somehow. A switch is either on or off. Because the majority of people will leave those settings how they were upon purchase, an ethical responsibility is placed on the makers of that device to have the default settings be fair and beneficial to the majority of users.
+{: .text-justify}
 
-The iPhone has a feature in the settings called "Do Not Disturb While Driving." This puts the phone into a mode where very few, if any, notifications will come through the phone while the user is driving to reduce distractions <a name="ref2"></a>[[2]](#do-not-disturb). In the settings, this feature has three options for activation: Automatically, When Connected to Car Bluetooth, and Manually. If set to "Automatically," this feature will turn on when it detects the phone moving above a certain speed. This brings us to the ethical question: Which option should "Do Not Disturb While Driving" be set to by default? In this case, it seems fairly straightforward. The default should be "Automatically" because it would potentially reduce car accidents related to distracted driving.  
+The iPhone has a feature in the settings called "Do Not Disturb While Driving." This puts the phone into a mode where very few, if any, notifications will come through the phone while the user is driving to reduce distractions <a name="ref2"></a>[[2]](#do-not-disturb). In the settings, this feature has three options for activation: Automatically, When Connected to Car Bluetooth, and Manually. If set to "Automatically," this feature will turn on when it detects the phone moving above a certain speed. This brings us to the ethical question: Which option should "Do Not Disturb While Driving" be set to by default? In this case, it seems fairly straightforward. The default should be "Automatically" because it would potentially reduce car accidents related to distracted driving. 
+{: .text-justify}
 
 But the decisions for certain defaults aren't always so clear cut. Should data roaming be on or off? Should autocorrect be activated or not? Should the camera shutter sound be on or off? What should be the default ringtone? Some of these decisions might as well be left to chance, but there are some where the interests of the user and the creator come into conflict. A commonly encountered example of this is in online commerce.
+{: .text-justify}
 
 An illustrative hypothetical: You are in the process of signing up for a service or purchasing a product from an online store. Just before you finish entering your payment information, you notice a checkbox that says something to this effect: "Keep me informed about future developments with this product/service." This usually means signing you up for their newsletter which may not have a straightforward unsubscribing process. Many customers would likely find this annoying. The interest of having their inbox free of clutter is in conflict with the company's interest of promoting their product or service. It can be very easy to click through a payment form too quickly to notice whether you have inadvertently signed up for promotional material you probably don't have much interest in receiving. Every business that has one of those checkboxes on their website has an ethical decision to make when programming their commerce platform: Should that box be checked when that page loads?
-</div>
+{: .text-justify}
 
 ## Market Forces and Couch Placement
 
