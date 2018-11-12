@@ -10,7 +10,7 @@ use_math: false
 ## Introduction
 
 Water flows downhill. General Ulysses S. Grant knew this when he attempted to divert the Mississippi River to bypass hostile forces during the American Civil War <a name="ref1"></a>[[1]](#grants-canal). While the project eventually failed due to technical problems, the idea behind Grant's plan was sound. Water always follows the path of least resistance. If a new path of even less resistance is introduced, the water will naturally divert in that direction. This principle largely applies to people as well. Humans tend to use the means that requires the least effort to get to a desired ends. Thus, as new systems and environments are set up, the creators must face a question of ethics about determining what will be the path of least resistance and consequently, the default behavior. 
-{: .text-left}
+{: .text-justify}
 
 [//]: # ([footnote] That's not to say all actions are predetermined, but there is an inertia of change that must be overcome to choose other than the default. Everyone experiences times where the drive and will to do so are readily available, but those moments represent the exception to this general trend.)
 
