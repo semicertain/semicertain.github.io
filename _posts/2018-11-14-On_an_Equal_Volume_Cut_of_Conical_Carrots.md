@@ -29,12 +29,16 @@ $$
 	\end{align}
 $$
 
-figure 1
+<figure class="image">
+  <img src="/img/CCFig1.JPG" />
+</figure>
 
 A fraction \\( k \\) will define where the cut should be made. The length of the base piece will be \\( kL \\) and the length of the tip piece will be \\( L-kL \\). The circle formed by the cut is defined to have a radius \\( r_k \\) (Figure \ref{fig:cutcarrot}). 
 {: style="text-align: justify"}
 
-figure 2
+<figure class="image">
+  <img src="/img/CCFig2.JPG" />
+</figure>
 
 Since the cut is defined so the volumes of the base piece and the tip piece are equal, it is only necessary to find one of those volumes for this derivation. The tip piece is a cone and its volume is given by 
 {: style="text-align: justify"}
@@ -66,7 +70,9 @@ $$
 can be defined for the smaller triangle. 
 {: style="text-align: justify"}
 
-figure 3
+<figure class="image">
+  <img src="/img/CCFig3.JPG" />
+</figure>
 
 Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \\( r_k \\) to be found in terms of \\( r \\) and \\( k \\):
 {: style="text-align: justify"}
