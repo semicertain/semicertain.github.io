@@ -15,12 +15,12 @@ In order to split an idealized conical carrot into two pieces of equal volume, a
 It is of interest to cut a carrot into two pieces of equal volume. A trivial solution is to make a cut lengthwise from the tip to the base. However, this is often inconvenient because the carrot may be curved, longer than the knife's blade, or both. Therefore, the cut shall be made across the shorter dimension. 
 {: style="text-align: justify"}
 
-Fully grown carrots generally taper significantly from one end to the other [citation needed]. In order to get a rough estimate for the position of the equal volume cut, an idealized model shall be adopted where the carrot is represented as a cone. It should be noted that by invoking Cavalieri's Principle, the following derivation can reasonably be applied to mildly curved carrots <a name="ref1"></a>[[1]](#cavalieri).
+Fully grown carrots generally taper significantly from one end to the other <a name="ref1"></a>[[citation needed]](#cavalieri). In order to get a rough estimate for the position of the equal volume cut, an idealized model shall be adopted where the carrot is represented as a cone. It should be noted that by invoking Cavalieri's Principle, the following derivation can reasonably be applied to mildly curved carrots <a name="ref1"></a>[[1]](#cavalieri).
 {: style="text-align: justify"}
 
 ## Derivation
 
-Consider an idealized conical carrot of length \\( L \\) and a circular base of radius \\( r \\)$ (Figure \ref{fig:carrot}). The volume of this carrot is
+Consider an idealized conical carrot of length \\( L \\) and a circular base of radius \\( r \\) (Figure $\ref{fig:carrot}$). The volume of this carrot is
 {: style="text-align: justify"}
 
 $$
@@ -144,4 +144,4 @@ The equal volume cut of a conical carrot is approximately one fifth of the carro
 ## References
 
 <a name="cavalieri"></a>
-[[1]](#ref1) "Grant's Canal." *National Park Service,* 14 April 2015. [Web Link.](https://en.wikipedia.org/wiki/Cavalieri%27s_principle)
+[[1]](#ref1) "Cavalier's Principle." *Wikipedia,* 7 November 2018. [Web Link.](https://en.wikipedia.org/wiki/Cavalieri%27s_principle)
