@@ -20,7 +20,7 @@ Fully grown carrots generally taper significantly from one end to the other <a n
 
 ## Derivation
 
-Consider an idealized conical carrot of length \\( L \\) and a circular base of radius \\( r \\) (Figure $\ref{fig:carrot}$). The volume of this carrot is
+Consider an idealized conical carrot of length $L$ and a circular base of radius \\( r \\) (Figure $\ref{fig:carrot}$). The volume of this carrot is
 {: style="text-align: justify"}
 
 $$
