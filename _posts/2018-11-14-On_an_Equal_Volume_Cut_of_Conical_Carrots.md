@@ -30,7 +30,8 @@ $$
 $$
 
 <figure class="image">
-  <img src="/img/CCFig1.JPG" />
+	<img src="/img/CCFig1.JPG" />
+	<em>image_caption</em>
 </figure>
 
 A fraction \\( k \\) will define where the cut should be made. The length of the base piece will be \\( kL \\) and the length of the tip piece will be \\( L-kL \\). The circle formed by the cut is defined to have a radius \\( r_k \\) (Figure \ref{fig:cutcarrot}). 
