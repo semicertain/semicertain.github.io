@@ -20,7 +20,7 @@ Fully grown carrots generally taper significantly from one end to the other <a n
 
 ## Derivation
 
-Consider an idealized conical carrot of length $L$ and a circular base of radius \\( r \\) (Figure $\ref{fig:carrot}$). The volume of this carrot is
+Consider an idealized conical carrot of length $L$ and a circular base of radius \\( r \\) (Figure 1). The volume of this carrot is
 {: style="text-align: justify"}
 
 $$
@@ -31,14 +31,15 @@ $$
 
 <figure class="image">
 	<img src="/img/CCFig1.JPG" />
-	<em>image_caption</em>
+	<em>Figure 1. An idealized conical carrot. Original figure.</em>
 </figure>
 
-A fraction \\( k \\) will define where the cut should be made. The length of the base piece will be \\( kL \\) and the length of the tip piece will be \\( L-kL \\). The circle formed by the cut is defined to have a radius \\( r_k \\) (Figure \ref{fig:cutcarrot}). 
+A fraction \\( k \\) will define where the cut should be made. The length of the base piece will be \\( kL \\) and the length of the tip piece will be \\( L-kL \\). The circle formed by the cut is defined to have a radius \\( r_k \\) (Figure 2). 
 {: style="text-align: justify"}
 
 <figure class="image">
-  <img src="/img/CCFig2.JPG" />
+	<img src="/img/CCFig2.JPG" />
+	<em>Figure 2. The conical carrot with a cut a distance kL from the base. Original figure.</em>
 </figure>
 
 Since the cut is defined so the volumes of the base piece and the tip piece are equal, it is only necessary to find one of those volumes for this derivation. The tip piece is a cone and its volume is given by 
@@ -50,7 +51,7 @@ $$
 	\end{align}
 $$
 
-In order to find \\( r_k \\) in terms of \\( r \\) and \\( k \\), consider the two right triangles shown in Figure \ref{fig:triangles}. The triangles were formed by drawing a line from the center of the base to the tip of the carrot. Because they share the angle \\( \theta \\), the trigonometric relation
+In order to find \\( r_k \\) in terms of \\( r \\) and \\( k \\), consider the two right triangles shown in Figure 3. The triangles were formed by drawing a line from the center of the base to the tip of the carrot. Because they share the angle \\( \theta \\), the trigonometric relation
 {: style="text-align: justify"}
 
 $$
@@ -72,10 +73,11 @@ can be defined for the smaller triangle.
 {: style="text-align: justify"}
 
 <figure class="image">
-  <img src="/img/CCFig3.JPG" />
+	<img src="/img/CCFig3.JPG" />
+	<em>Figure 3. Two right triangles formed by the full carrot and the tip piece. Original figure.</em>
 </figure>
 
-Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \\( r_k \\) to be found in terms of \\( r \\) and \\( k \\):
+Setting the two above equations equal to each other allows for \\( r_k \\) to be found in terms of \\( r \\) and \\( k \\):
 {: style="text-align: justify"}
 
 $$
@@ -92,7 +94,7 @@ $$
 	\end{align*}
 $$
 
-This may be substituted into equation (\ref{tipVol}) to redefine the tip piece's volume:
+This may be substituted into the equation for the volume of the tip \\( V_1 \\) to redefine the tip piece's volume:
 {: style="text-align: justify"}
 
 $$
@@ -112,7 +114,7 @@ $$
 	\end{align*}
 $$
 
-Substituting equations (\ref{V}) and (\ref{tipVol2}) into the above expression gives
+Substituting the equations for \\( V \\) and \\( V_1 \\) into the above expression gives
 {: style="text-align: justify"}
 
 $$
