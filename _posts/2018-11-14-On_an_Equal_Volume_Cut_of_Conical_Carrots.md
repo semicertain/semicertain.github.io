@@ -82,15 +82,15 @@ Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \
 
 $$
 	\begin{equation*}
-		\frac{r_k}{L-kL} &= \frac{r}{L}
+		\frac{r_k}{L-kL} = \frac{r}{L}
 	\end{equation*}
 
 $$
 
 $$
 	\begin{equation*}
-		r_k &= \frac{r}{L}(L-kL)\nonumber \\
-		r_k &= r(1-k).
+		r_k = \frac{r}{L}(L-kL)\nonumber \\
+		r_k = r(1-k).
 	\end{equation*}
 $$
 
