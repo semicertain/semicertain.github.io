@@ -94,7 +94,7 @@ $$
 	\end{equation*}
 $$
 
-This may be substituted into the equation for the volume of the tip \\( V_1 \\) to redefine the tip piece's volume:
+This may be substituted into equation \eqref{tipVol} for the volume of the tip \\( V_1 \\) to redefine the tip piece's volume:
 {: style="text-align: justify"}
 
 $$
