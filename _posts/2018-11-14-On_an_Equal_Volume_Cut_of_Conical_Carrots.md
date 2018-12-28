@@ -64,7 +64,7 @@ can be defined for the big triangle and the similar relation
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{lilT}\tag{n}
+	\begin{equation}\label{lilT}\tag{4}
 		\text{tan}(\theta) = \frac{r_k}{L-kL}
 	\end{equation}
 $$
@@ -105,7 +105,7 @@ $$
 $$
 
 $$
-	\begin{equation} \label{tipVol2}\tag{}
+	\begin{equation} \label{tipVol2}\tag{5}
 		V_1 = \frac{1}{3}\pi r^2 (1-k)^3 L
 	\end{equation}
 $$
