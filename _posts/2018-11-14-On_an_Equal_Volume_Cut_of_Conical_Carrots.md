@@ -99,9 +99,11 @@ This may be substituted into equation \eqref{tipVol} for the volume of the tip \
 
 $$
 	\begin{equation*}
-		V_1 = \frac{1}{3}\pi [r(1-k)]^2 (L-kL)\nonumber\\
-		V_1 = \frac{1}{3}\pi r^2 (1-k)^2 L(1-k)\nonumber\\
+		V_1 = \frac{1}{3}\pi [r(1-k)]^2 (L-kL) \\
+		V_1 = \frac{1}{3}\pi r^2 (1-k)^2 L(1-k) \\
 	\end{equation*}
+$$
+$$
 	\begin{equation} \label{tipVol2}
 		V_1 = \frac{1}{3}\pi r^2 (1-k)^3 L
 	\end{equation}
@@ -116,7 +118,7 @@ $$
 	\end{equation*}
 $$
 
-Substituting the equations eqref{V} and \eqref{tipVol2} into the above expression gives
+Substituting the equations \eqref{V} and \eqref{tipVol2} into the above expression gives
 {: style="text-align: justify"}
 
 $$
