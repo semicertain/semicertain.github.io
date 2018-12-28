@@ -20,7 +20,7 @@ Fully grown carrots generally taper significantly from one end to the other <a n
 
 ## Derivation
 
-Consider an idealized conical carrot of length \\( L \\) and a circular base of radius \\( r \\) (Figure 1). The volume of this carrot is
+Consider an idealized conical carrot of length $L$ and a circular base of radius \\( r \\) (Figure 1). The volume of this carrot is
 {: style="text-align: justify"}
 
 $$
@@ -46,7 +46,7 @@ Since the cut is defined so the volumes of the base piece and the tip piece are 
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{tipVol}
+	\begin{equation}\label{tipVol}\tag{n}
 		V_1 = \frac{1}{3}\pi r_k^2 (L-kL).
 	\end{equation}
 $$
@@ -55,7 +55,7 @@ In order to find \\( r_k \\) in terms of \\( r \\) and \\( k \\), consider the t
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{bigT}
+	\begin{equation}\label{bigT}\tag{}
 		\text{tan}(\theta) = \frac{r}{L}
 	\end{equation}
 $$
