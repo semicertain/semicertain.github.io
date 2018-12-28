@@ -81,9 +81,9 @@ Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \
 {: style="text-align: justify"}
 
 $$
-	\begin{equation*}
+	\begin{align*}
 		\frac{r_k}{L-kL} = \frac{r}{L}
-	\end{equation*}
+	\end{align*}
 
 $$
 
