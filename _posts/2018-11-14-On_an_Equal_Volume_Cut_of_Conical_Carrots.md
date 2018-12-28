@@ -99,9 +99,9 @@ This may be substituted into equation \eqref{tipVol} for the volume of the tip \
 
 $$
 	\begin{equation}
-		V_1 &= \frac{1}{3}\pi [r(1-k)]^2 (L-kL)\nonumber\\
-		V_1 &= \frac{1}{3}\pi r^2 (1-k)^2 L(1-k)\nonumber\\
-		V_1 &= \frac{1}{3}\pi r^2 (1-k)^3 L \label{tipVol2}
+		V_1 = \frac{1}{3}\pi [r(1-k)]^2 (L-kL)\nonumber\\
+		V_1 = \frac{1}{3}\pi r^2 (1-k)^2 L(1-k)\nonumber\\
+		V_1 = \frac{1}{3}\pi r^2 (1-k)^3 L \label{tipVol2}
 	\end{equation}
 $$
 
@@ -109,29 +109,29 @@ Because the tip and base pieces are of equal volume, the total volume \\( V \\) 
 {: style="text-align: justify"}
 
 $$
-	\begin{align*}
+	\begin{equation*}
 		V = 2\cdot V_1
-	\end{align*}
+	\end{equation*}
 $$
 
 Substituting the equations for \\( V \\) and \\( V_1 \\) into the above expression gives
 {: style="text-align: justify"}
 
 $$
-	\begin{align*}
-		 \frac{1}{3}\pi r^2 L &= 2\cdot \frac{1}{3}\pi r^2(1-k)^3 L.
-	\end{align*}
+	\begin{equation*}
+		 \frac{1}{3}\pi r^2 L = 2\cdot \frac{1}{3}\pi r^2(1-k)^3 L.
+	\end{equation*}
 $$
 
 Canceling common factors from both sides leaves a relatively simple expression for \\( k \\).
 {: style="text-align: justify"}
 
 $$
-	\begin{align}
-		1 &= 2(1-k)^3\nonumber\\
-		\left(\frac{1}{2}\right)^{1/3} &= 1-k\nonumber\\
-		k &= 1 - \left(\frac{1}{2}\right)^{1/3}
-	\end{align}
+	\begin{equation}
+		1 = 2(1-k)^3\nonumber\\
+		\left(\frac{1}{2}\right)^{1/3} = 1-k\nonumber\\
+		k = 1 - \left(\frac{1}{2}\right)^{1/3}
+	\end{equation}
 $$
 
 Evaluated numerically, \\( k = 0.2063 \\) which is reasonably close to a fifth.
