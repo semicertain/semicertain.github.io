@@ -46,7 +46,7 @@ Since the cut is defined so the volumes of the base piece and the tip piece are 
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{tipVol}\tag{n}
+	\begin{equation}\label{tipVol}\tag{2}
 		V_1 = \frac{1}{3}\pi r_k^2 (L-kL).
 	\end{equation}
 $$
@@ -55,7 +55,7 @@ In order to find \\( r_k \\) in terms of \\( r \\) and \\( k \\), consider the t
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{bigT}\tag{}
+	\begin{equation}\label{bigT}\tag{3}
 		\text{tan}(\theta) = \frac{r}{L}
 	\end{equation}
 $$
@@ -64,7 +64,7 @@ can be defined for the big triangle and the similar relation
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{lilT}
+	\begin{equation}\label{lilT}\tag{n}
 		\text{tan}(\theta) = \frac{r_k}{L-kL}
 	\end{equation}
 $$
@@ -105,7 +105,7 @@ $$
 $$
 
 $$
-	\begin{equation} \label{tipVol2}
+	\begin{equation} \label{tipVol2}\tag{}
 		V_1 = \frac{1}{3}\pi r^2 (1-k)^3 L
 	\end{equation}
 $$
