@@ -24,8 +24,8 @@ Consider an idealized conical carrot of length \\( L \\) and a circular base of 
 {: style="text-align: justify"}
 
 $$
-	\begin{equation}\label{V}
-		V = \frac{1}{3}\pi r^2 L.
+	\begin{equation}\label{V}\tag{1}
+		V = \frac{1}{3}\pi r^2 L\ .
 	\end{equation}
 $$
 
@@ -89,7 +89,7 @@ $$
 
 $$
 	\begin{equation*}
-		r_k = \frac{r}{L}(L-kL)\nonumber \\
+		r_k = \frac{r}{L}(L-kL) \\
 		r_k = r(1-k)
 	\end{equation*}
 $$
@@ -103,6 +103,7 @@ $$
 		V_1 = \frac{1}{3}\pi r^2 (1-k)^2 L(1-k) \\
 	\end{equation*}
 $$
+
 $$
 	\begin{equation} \label{tipVol2}
 		V_1 = \frac{1}{3}\pi r^2 (1-k)^3 L
