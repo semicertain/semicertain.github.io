@@ -81,28 +81,28 @@ Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \
 {: style="text-align: justify"}
 
 $$
-	\begin{align*}
+	\begin{equation*}
 		\frac{r_k}{L-kL} &= \frac{r}{L}
-	\end{align*}
+	\end{equation*}
 
 $$
 
 $$
-	\begin{align*}
+	\begin{equation*}
 		r_k &= \frac{r}{L}(L-kL)\nonumber \\
 		r_k &= r(1-k).
-	\end{align*}
+	\end{equation*}
 $$
 
 This may be substituted into the equation for the volume of the tip \\( V_1 \\) to redefine the tip piece's volume:
 {: style="text-align: justify"}
 
 $$
-	\begin{align}
+	\begin{equation}
 		V_1 &= \frac{1}{3}\pi [r(1-k)]^2 (L-kL)\nonumber\\
 		V_1 &= \frac{1}{3}\pi r^2 (1-k)^2 L(1-k)\nonumber\\
 		V_1 &= \frac{1}{3}\pi r^2 (1-k)^3 L \label{tipVol2}
-	\end{align}
+	\end{equation}
 $$
 
 Because the tip and base pieces are of equal volume, the total volume \\( V \\) will be equal to twice the tip piece's volume.
