@@ -20,13 +20,13 @@ Fully grown carrots generally taper significantly from one end to the other <a n
 
 ## Derivation
 
-Consider an idealized conical carrot of length $L$ and a circular base of radius \\( r \\) (Figure 1). The volume of this carrot is
+Consider an idealized conical carrot of length \\( L \\) and a circular base of radius \\( r \\) (Figure 1). The volume of this carrot is
 {: style="text-align: justify"}
 
 $$
-	\begin{align}\label{V}
+	\begin{equation}\label{V}
 		V = \frac{1}{3}\pi r^2 L.
-	\end{align}
+	\end{equation}
 $$
 
 <figure class="image">
@@ -46,27 +46,27 @@ Since the cut is defined so the volumes of the base piece and the tip piece are 
 {: style="text-align: justify"}
 
 $$
-	\begin{align}\label{tipVol}
+	\begin{equation}\label{tipVol}
 		V_1 = \frac{1}{3}\pi r_k^2 (L-kL).
-	\end{align}
+	\end{equation}
 $$
 
 In order to find \\( r_k \\) in terms of \\( r \\) and \\( k \\), consider the two right triangles shown in Figure 3. The triangles were formed by drawing a line from the center of the base to the tip of the carrot. Because they share the angle \\( \theta \\), the trigonometric relation
 {: style="text-align: justify"}
 
 $$
-	\begin{align}\label{bigT}
+	\begin{equation}\label{bigT}
 		\text{tan}(\theta) = \frac{r}{L}
-	\end{align}
+	\end{equation}
 $$
 
 can be defined for the big triangle and the similar relation
 {: style="text-align: justify"}
 
 $$
-	\begin{align}\label{lilT}
+	\begin{equation}\label{lilT}
 		\text{tan}(\theta) = \frac{r_k}{L-kL}
-	\end{align}
+	\end{equation}
 $$
 
 can be defined for the smaller triangle. 
@@ -77,7 +77,7 @@ can be defined for the smaller triangle.
 	<em>Figure 3. Two right triangles formed by the full carrot and the tip piece. Original figure.</em>
 </figure>
 
-Setting the two above equations equal to each other allows for \\( r_k \\) to be found in terms of \\( r \\) and \\( k \\):
+Setting equations \eqref{bigT} and \eqref{lilT} equal to each other allows for \\( r_k \\) to be found in terms of \\( r \\) and \\( k \\):
 {: style="text-align: justify"}
 
 $$
